@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SideLoading</string>
+    <string name="app_sideloading">App Sideloading</string>
+    <string name="check_App_In_Device">Check App In Device</string>
+    <string name="permission_denied">Storage Permission Denied</string>
+    <string name="access_required">Storage Access Required</string>
+    <string name="ok">OK</string>
+    <string name="downloading">Downloading&#8230;</string>
+    <string name="title_file_download">APK is downloading</string>
+</resources>
